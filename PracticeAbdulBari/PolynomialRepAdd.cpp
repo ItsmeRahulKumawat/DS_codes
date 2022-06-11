@@ -63,8 +63,14 @@
 //			sum->t[k++].coef = p1->t[i++].coef + p2->t[j++].coef;
 //		}
 //	}
-//	for (; i < n; i++) sum->t[k] = p1->t[i];
-//	for (; j < n; j++) sum->t[k] = p2->t[j];
+//	for (; i < p1->n; i++)
+//	{
+//		sum->t[k++] = p1->t[i];
+//	}
+//	for (; j < p2->n; j++)
+//	{
+//		sum->t[k++] = p2->t[j];
+//	}
 //
 //	sum->n = k;
 //
@@ -73,7 +79,7 @@
 //
 //int main()
 //{
-//	Poly p1(5);
+//	Poly p1(3);
 //	Poly p2(3);
 //	cout << endl;
 //	cout << "This is p1" << endl;

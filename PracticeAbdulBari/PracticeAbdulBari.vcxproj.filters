@@ -22,6 +22,9 @@
     <Filter Include="Source Files\5. Matrices">
       <UniqueIdentifier>{93b9c96c-079c-4fb9-89a6-80b40acd0e0f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\5.2 Polynomial">
+      <UniqueIdentifier>{2778fe0c-c3d6-4e7d-af48-e3514ddb4af1}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="PracticeAbdulBari.cpp">
@@ -172,7 +175,7 @@
       <Filter>Source Files\5. Matrices</Filter>
     </ClCompile>
     <ClCompile Include="PolynomialRepAdd.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\5.2 Polynomial</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
