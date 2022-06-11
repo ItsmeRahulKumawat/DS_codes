@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\3. Array ADT">
+      <UniqueIdentifier>{e51d20ce-a425-4d98-a0a4-0e7b9dd48c81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\4. Strings">
+      <UniqueIdentifier>{1f46af42-11bc-4789-b444-fec83f8cf6a3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\5. Matrices">
+      <UniqueIdentifier>{93b9c96c-079c-4fb9-89a6-80b40acd0e0f}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="PracticeAbdulBari.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3TreeRecrrsion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="4IndirectRecursion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="5NestedRecursion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="6SumofFirstNnumber.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="7factorialRecursion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="8ExponenetRecursion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="9TaylorSeriesRecursion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="10FibonacciRecursion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="11CombinationRecursion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="12TowerofHanoiRecursion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="13DynamicArrays.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="14Arrays2D.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3.1-arrayoperations.cpp">
+      <Filter>Source Files\3. Array ADT</Filter>
+    </ClCompile>
+    <ClCompile Include="ConvertedtoC++.cpp">
+      <Filter>Source Files\3. Array ADT</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayClass.cpp">
+      <Filter>Source Files\3. Array ADT</Filter>
+    </ClCompile>
+    <ClCompile Include="singleMissingElemSortedArray.cpp">
+      <Filter>Source Files\3. Array ADT</Filter>
+    </ClCompile>
+    <ClCompile Include="singlemissingbutnotNaturalnumfrom1.cpp">
+      <Filter>Source Files\3. Array ADT</Filter>
+    </ClCompile>
+    <ClCompile Include="MultipleMissingSortedArray.cpp">
+      <Filter>Source Files\3. Array ADT</Filter>
+    </ClCompile>
+    <ClCompile Include="MissingElemInUnsortedArray.cpp">
+      <Filter>Source Files\3. Array ADT</Filter>
+    </ClCompile>
+    <ClCompile Include="CountingDuplicateSOrted.cpp">
+      <Filter>Source Files\3. Array ADT</Filter>
+    </ClCompile>
+    <ClCompile Include="DuplicateusingHashTable.cpp">
+      <Filter>Source Files\3. Array ADT</Filter>
+    </ClCompile>
+    <ClCompile Include="CountingDuplicatesUnsortedArray.cpp">
+      <Filter>Source Files\3. Array ADT</Filter>
+    </ClCompile>
+    <ClCompile Include="PairofElementsgivenSum.cpp">
+      <Filter>Source Files\3. Array ADT</Filter>
+    </ClCompile>
+    <ClCompile Include="PairofElemetsSortedArray.cpp">
+      <Filter>Source Files\3. Array ADT</Filter>
+    </ClCompile>
+    <ClCompile Include="MinAndMaxinSingleScan.cpp">
+      <Filter>Source Files\3. Array ADT</Filter>
+    </ClCompile>
+    <ClCompile Include="StringLength.cpp">
+      <Filter>Source Files\4. Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="testing.c">
+      <Filter>Source Files\4. Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="UppercasetoLowercase.cpp">
+      <Filter>Source Files\4. Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="VowelsAndWords.cpp">
+      <Filter>Source Files\4. Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="ValidatingString.cpp">
+      <Filter>Source Files\4. Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="reversingString.cpp">
+      <Filter>Source Files\4. Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="ComparingString.cpp">
+      <Filter>Source Files\4. Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="PalindromeString.cpp">
+      <Filter>Source Files\4. Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="findingDuplicateInString.cpp">
+      <Filter>Source Files\4. Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="FindingDuplicatesUsingBitwise.cpp">
+      <Filter>Source Files\4. Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="CheckingAnagrams.cpp">
+      <Filter>Source Files\4. Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="StringPermutation.cpp">
+      <Filter>Source Files\4. Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="SwapMethodPermutationofStrings.cpp">
+      <Filter>Source Files\4. Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="DiagonalMatrix.cpp">
+      <Filter>Source Files\5. Matrices</Filter>
+    </ClCompile>
+    <ClCompile Include="DiagonalMatrixusingCPP.cpp">
+      <Filter>Source Files\5. Matrices</Filter>
+    </ClCompile>
+    <ClCompile Include="LowerTriangularMatrixRowMajor.cpp">
+      <Filter>Source Files\5. Matrices</Filter>
+    </ClCompile>
+    <ClCompile Include="UpperTriangularMatrixColumnMajor.cpp">
+      <Filter>Source Files\5. Matrices</Filter>
+    </ClCompile>
+    <ClCompile Include="MenuDrivenAllMatrixes.cpp">
+      <Filter>Source Files\5. Matrices</Filter>
+    </ClCompile>
+    <ClCompile Include="SparseMatrix.cpp">
+      <Filter>Source Files\5. Matrices</Filter>
+    </ClCompile>
+    <ClCompile Include="SparseAddition.cpp">
+      <Filter>Source Files\5. Matrices</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
