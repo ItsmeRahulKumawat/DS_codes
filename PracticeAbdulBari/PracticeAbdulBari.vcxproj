@@ -172,12 +172,14 @@
     <ClCompile Include="PairofElementsgivenSum.cpp" />
     <ClCompile Include="PairofElemetsSortedArray.cpp" />
     <ClCompile Include="PalindromeString.cpp" />
+    <ClCompile Include="PolynomialRepAdd.cpp" />
     <ClCompile Include="PracticeAbdulBari.cpp" />
     <ClCompile Include="reversingString.cpp" />
     <ClCompile Include="singlemissingbutnotNaturalnumfrom1.cpp" />
     <ClCompile Include="singleMissingElemSortedArray.cpp" />
     <ClCompile Include="SparseAddition.cpp" />
     <ClCompile Include="SparseMatrix.cpp" />
+    <ClCompile Include="SparseMatrixAdditionusingOperatoroverloadingInpOutStream.cpp" />
     <ClCompile Include="StringLength.cpp" />
     <ClCompile Include="StringPermutation.cpp" />
     <ClCompile Include="SwapMethodPermutationofStrings.cpp" />

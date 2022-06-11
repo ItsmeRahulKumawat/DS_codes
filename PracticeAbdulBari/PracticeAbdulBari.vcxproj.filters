@@ -168,5 +168,11 @@
     <ClCompile Include="SparseAddition.cpp">
       <Filter>Source Files\5. Matrices</Filter>
     </ClCompile>
+    <ClCompile Include="SparseMatrixAdditionusingOperatoroverloadingInpOutStream.cpp">
+      <Filter>Source Files\5. Matrices</Filter>
+    </ClCompile>
+    <ClCompile Include="PolynomialRepAdd.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
