@@ -25,6 +25,9 @@
     <Filter Include="Source Files\5.2 Polynomial">
       <UniqueIdentifier>{2778fe0c-c3d6-4e7d-af48-e3514ddb4af1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\6. LinkedList">
+      <UniqueIdentifier>{d4d6e269-6ce7-49e1-aa31-776787738a0f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="PracticeAbdulBari.cpp">
@@ -176,6 +179,36 @@
     </ClCompile>
     <ClCompile Include="PolynomialRepAdd.cpp">
       <Filter>Source Files\5.2 Polynomial</Filter>
+    </ClCompile>
+    <ClCompile Include="practiceCp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MakingFirstLinkedList.cpp">
+      <Filter>Source Files\6. LinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkedListUsingRecursionAndOperations.cpp">
+      <Filter>Source Files\6. LinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="InsertNodeInSortedList.cpp">
+      <Filter>Source Files\6. LinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="MergingTwolikedlist.cpp">
+      <Filter>Source Files\6. LinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="checkLoopLinkedlist.cpp">
+      <Filter>Source Files\6. LinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="CircularLinkedlist.cpp">
+      <Filter>Source Files\6. LinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="DoublyLinkedlist.cpp">
+      <Filter>Source Files\6. LinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="FindingMiddleelementLL.cpp">
+      <Filter>Source Files\6. LinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="FindingIntersectionfoTwoLL.cpp">
+      <Filter>Source Files\6. LinkedList</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
