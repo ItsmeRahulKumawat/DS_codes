@@ -28,6 +28,15 @@
     <Filter Include="Source Files\6. LinkedList">
       <UniqueIdentifier>{d4d6e269-6ce7-49e1-aa31-776787738a0f}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\8. Stack">
+      <UniqueIdentifier>{2339892f-fc71-4b28-89a9-2b8bed0074aa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\7. SparseMatrix and Polynomial LL">
+      <UniqueIdentifier>{db545878-eb56-4d32-bfc8-63d934f36ebf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\9. Queue">
+      <UniqueIdentifier>{f0c21a74-3850-4d64-b34e-bdd62ff920f4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="PracticeAbdulBari.cpp">
@@ -209,6 +218,54 @@
     </ClCompile>
     <ClCompile Include="FindingIntersectionfoTwoLL.cpp">
       <Filter>Source Files\6. LinkedList</Filter>
+    </ClCompile>
+    <ClCompile Include="sparseMatrixUsingLL.cpp">
+      <Filter>Source Files\7. SparseMatrix and Polynomial LL</Filter>
+    </ClCompile>
+    <ClCompile Include="PolynomialUsingLL.cpp">
+      <Filter>Source Files\7. SparseMatrix and Polynomial LL</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayStackandOperations.cpp">
+      <Filter>Source Files\8. Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="LLStackandOperations.cpp">
+      <Filter>Source Files\8. Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="ProperCppforStackwithLL.cpp">
+      <Filter>Source Files\8. Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="ParathesisMatchingStack.cpp">
+      <Filter>Source Files\8. Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="SirsLogicParanthesis.cpp">
+      <Filter>Source Files\8. Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="DiffParanthesisStack.cpp">
+      <Filter>Source Files\8. Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="InfixtoPostfixStack.cpp">
+      <Filter>Source Files\8. Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="InfixToPostfixWithR-Loperators.cpp">
+      <Filter>Source Files\8. Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="PostfixEvaluationStack.cpp">
+      <Filter>Source Files\8. Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="sirMethodPostfixEvaluation.cpp">
+      <Filter>Source Files\8. Stack</Filter>
+    </ClCompile>
+    <ClCompile Include="QueueandOperationsArray.cpp">
+      <Filter>Source Files\9. Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="CircularQueueUsingArray.cpp">
+      <Filter>Source Files\9. Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="QueueUsingLinkedlist.cpp">
+      <Filter>Source Files\9. Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="DoublyEndedQueue.cpp">
+      <Filter>Source Files\9. Queue</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
