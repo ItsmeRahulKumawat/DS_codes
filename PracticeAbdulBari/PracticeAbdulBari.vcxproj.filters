@@ -37,6 +37,9 @@
     <Filter Include="Source Files\9. Queue">
       <UniqueIdentifier>{f0c21a74-3850-4d64-b34e-bdd62ff920f4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\10. Trees">
+      <UniqueIdentifier>{f2f7d259-9f69-44a3-8372-3bd7b301438d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="PracticeAbdulBari.cpp">
@@ -266,6 +269,18 @@
     </ClCompile>
     <ClCompile Include="DoublyEndedQueue.cpp">
       <Filter>Source Files\9. Queue</Filter>
+    </ClCompile>
+    <ClCompile Include="MakingTreeWithC.cpp">
+      <Filter>Source Files\10. Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="TreeWithArrayQueue.cpp">
+      <Filter>Source Files\10. Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="IterativeTraversalsTree.cpp">
+      <Filter>Source Files\10. Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="MakingTreeWithTraversals.cpp">
+      <Filter>Source Files\10. Trees</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

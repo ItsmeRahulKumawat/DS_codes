@@ -176,10 +176,13 @@
     <ClCompile Include="InfixtoPostfixStack.cpp" />
     <ClCompile Include="InfixToPostfixWithR-Loperators.cpp" />
     <ClCompile Include="InsertNodeInSortedList.cpp" />
+    <ClCompile Include="IterativeTraversalsTree.cpp" />
     <ClCompile Include="LinkedListUsingRecursionAndOperations.cpp" />
     <ClCompile Include="LLStackandOperations.cpp" />
     <ClCompile Include="LowerTriangularMatrixRowMajor.cpp" />
     <ClCompile Include="MakingFirstLinkedList.cpp" />
+    <ClCompile Include="MakingTreeWithC.cpp" />
+    <ClCompile Include="MakingTreeWithTraversals.cpp" />
     <ClCompile Include="MergingTwolikedlist.cpp" />
     <ClCompile Include="MinAndMaxinSingleScan.cpp" />
     <ClCompile Include="MissingElemInUnsortedArray.cpp" />
@@ -211,6 +214,7 @@
     <ClCompile Include="SwapMethodPermutationofStrings.cpp" />
     <ClCompile Include="MenuDrivenAllMatrixes.cpp" />
     <ClCompile Include="testing.c" />
+    <ClCompile Include="TreeWithArrayQueue.cpp" />
     <ClCompile Include="UppercasetoLowercase.cpp" />
     <ClCompile Include="UpperTriangularMatrixColumnMajor.cpp" />
     <ClCompile Include="ValidatingString.cpp" />
