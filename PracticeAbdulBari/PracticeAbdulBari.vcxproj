@@ -155,6 +155,7 @@
     <ClCompile Include="9TaylorSeriesRecursion.cpp" />
     <ClCompile Include="3.1-arrayoperations.cpp" />
     <ClCompile Include="ArrayClass.cpp" />
+    <ClCompile Include="BSTfromTraversals.cpp" />
     <ClCompile Include="CheckingAnagrams.cpp" />
     <ClCompile Include="checkLoopLinkedlist.cpp" />
     <ClCompile Include="CircularLinkedlist.cpp" />
@@ -179,7 +180,9 @@
     <ClCompile Include="IterativeTraversalsTree.cpp" />
     <ClCompile Include="LinkedListUsingRecursionAndOperations.cpp" />
     <ClCompile Include="LLStackandOperations.cpp" />
+    <ClCompile Include="LL_RotationAvlTree.cpp" />
     <ClCompile Include="LowerTriangularMatrixRowMajor.cpp" />
+    <ClCompile Include="MakingBST.cpp" />
     <ClCompile Include="MakingFirstLinkedList.cpp" />
     <ClCompile Include="MakingTreeWithC.cpp" />
     <ClCompile Include="MakingTreeWithTraversals.cpp" />
@@ -214,6 +217,7 @@
     <ClCompile Include="SwapMethodPermutationofStrings.cpp" />
     <ClCompile Include="MenuDrivenAllMatrixes.cpp" />
     <ClCompile Include="testing.c" />
+    <ClCompile Include="TreeWIthALLOperations.cpp" />
     <ClCompile Include="TreeWithArrayQueue.cpp" />
     <ClCompile Include="UppercasetoLowercase.cpp" />
     <ClCompile Include="UpperTriangularMatrixColumnMajor.cpp" />

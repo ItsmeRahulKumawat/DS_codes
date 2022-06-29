@@ -40,6 +40,12 @@
     <Filter Include="Source Files\10. Trees">
       <UniqueIdentifier>{f2f7d259-9f69-44a3-8372-3bd7b301438d}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\11. Binary Search Trees">
+      <UniqueIdentifier>{71636e63-de61-4f54-870b-01805ef47369}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\AVL Trees">
+      <UniqueIdentifier>{625aa072-392f-413b-98f6-db8eeea9830d}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="PracticeAbdulBari.cpp">
@@ -281,6 +287,18 @@
     </ClCompile>
     <ClCompile Include="MakingTreeWithTraversals.cpp">
       <Filter>Source Files\10. Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="TreeWIthALLOperations.cpp">
+      <Filter>Source Files\10. Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="MakingBST.cpp">
+      <Filter>Source Files\11. Binary Search Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="BSTfromTraversals.cpp">
+      <Filter>Source Files\11. Binary Search Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="LL_RotationAvlTree.cpp">
+      <Filter>Source Files\AVL Trees</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
