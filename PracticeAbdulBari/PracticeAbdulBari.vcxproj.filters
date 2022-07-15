@@ -43,8 +43,17 @@
     <Filter Include="Source Files\11. Binary Search Trees">
       <UniqueIdentifier>{71636e63-de61-4f54-870b-01805ef47369}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Source Files\AVL Trees">
+    <Filter Include="Source Files\12. AVL Trees">
       <UniqueIdentifier>{625aa072-392f-413b-98f6-db8eeea9830d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\13. Search Trees">
+      <UniqueIdentifier>{4d3075a7-bfa2-4cee-a209-467151d3cd84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\14. HEAP">
+      <UniqueIdentifier>{46f31cbb-c698-4665-852a-e5b444bbfb4d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\15. Sorting">
+      <UniqueIdentifier>{3ea7111f-e713-4c7c-937c-7dd9f8e2add5}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -298,7 +307,40 @@
       <Filter>Source Files\11. Binary Search Trees</Filter>
     </ClCompile>
     <ClCompile Include="LL_RotationAvlTree.cpp">
-      <Filter>Source Files\AVL Trees</Filter>
+      <Filter>Source Files\12. AVL Trees</Filter>
+    </ClCompile>
+    <ClCompile Include="HeapAndAllFunctions.cpp">
+      <Filter>Source Files\14. HEAP</Filter>
+    </ClCompile>
+    <ClCompile Include="HeapWithC.cpp">
+      <Filter>Source Files\14. HEAP</Filter>
+    </ClCompile>
+    <ClCompile Include="bubblesort.cpp">
+      <Filter>Source Files\15. Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="InsertionSort.cpp">
+      <Filter>Source Files\15. Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="SelectionSort.cpp">
+      <Filter>Source Files\15. Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="QuickSort.cpp">
+      <Filter>Source Files\15. Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="MergeSortIterative.cpp">
+      <Filter>Source Files\15. Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="CountSort.cpp">
+      <Filter>Source Files\15. Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="BinBucketSort.cpp">
+      <Filter>Source Files\15. Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="RadixSort.cpp">
+      <Filter>Source Files\15. Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="ShellSort.cpp">
+      <Filter>Source Files\15. Sorting</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

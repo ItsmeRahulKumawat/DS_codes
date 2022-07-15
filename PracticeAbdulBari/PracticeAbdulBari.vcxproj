@@ -155,7 +155,9 @@
     <ClCompile Include="9TaylorSeriesRecursion.cpp" />
     <ClCompile Include="3.1-arrayoperations.cpp" />
     <ClCompile Include="ArrayClass.cpp" />
+    <ClCompile Include="BinBucketSort.cpp" />
     <ClCompile Include="BSTfromTraversals.cpp" />
+    <ClCompile Include="bubblesort.cpp" />
     <ClCompile Include="CheckingAnagrams.cpp" />
     <ClCompile Include="checkLoopLinkedlist.cpp" />
     <ClCompile Include="CircularLinkedlist.cpp" />
@@ -164,6 +166,7 @@
     <ClCompile Include="ConvertedtoC++.cpp" />
     <ClCompile Include="CountingDuplicateSOrted.cpp" />
     <ClCompile Include="CountingDuplicatesUnsortedArray.cpp" />
+    <ClCompile Include="CountSort.cpp" />
     <ClCompile Include="DiagonalMatrix.cpp" />
     <ClCompile Include="DiagonalMatrixusingCPP.cpp" />
     <ClCompile Include="DiffParanthesisStack.cpp" />
@@ -174,8 +177,11 @@
     <ClCompile Include="FindingDuplicatesUsingBitwise.cpp" />
     <ClCompile Include="FindingIntersectionfoTwoLL.cpp" />
     <ClCompile Include="FindingMiddleelementLL.cpp" />
+    <ClCompile Include="HeapAndAllFunctions.cpp" />
+    <ClCompile Include="HeapWithC.cpp" />
     <ClCompile Include="InfixtoPostfixStack.cpp" />
     <ClCompile Include="InfixToPostfixWithR-Loperators.cpp" />
+    <ClCompile Include="InsertionSort.cpp" />
     <ClCompile Include="InsertNodeInSortedList.cpp" />
     <ClCompile Include="IterativeTraversalsTree.cpp" />
     <ClCompile Include="LinkedListUsingRecursionAndOperations.cpp" />
@@ -186,6 +192,7 @@
     <ClCompile Include="MakingFirstLinkedList.cpp" />
     <ClCompile Include="MakingTreeWithC.cpp" />
     <ClCompile Include="MakingTreeWithTraversals.cpp" />
+    <ClCompile Include="MergeSortIterative.cpp" />
     <ClCompile Include="MergingTwolikedlist.cpp" />
     <ClCompile Include="MinAndMaxinSingleScan.cpp" />
     <ClCompile Include="MissingElemInUnsortedArray.cpp" />
@@ -202,7 +209,11 @@
     <ClCompile Include="ProperCppforStackwithLL.cpp" />
     <ClCompile Include="QueueandOperationsArray.cpp" />
     <ClCompile Include="QueueUsingLinkedlist.cpp" />
+    <ClCompile Include="QuickSort.cpp" />
+    <ClCompile Include="RadixSort.cpp" />
     <ClCompile Include="reversingString.cpp" />
+    <ClCompile Include="SelectionSort.cpp" />
+    <ClCompile Include="ShellSort.cpp" />
     <ClCompile Include="singlemissingbutnotNaturalnumfrom1.cpp" />
     <ClCompile Include="singleMissingElemSortedArray.cpp" />
     <ClCompile Include="sirMethodPostfixEvaluation.cpp" />
