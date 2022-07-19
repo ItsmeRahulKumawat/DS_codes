@@ -55,6 +55,9 @@
     <Filter Include="Source Files\15. Sorting">
       <UniqueIdentifier>{3ea7111f-e713-4c7c-937c-7dd9f8e2add5}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\16. Hashing">
+      <UniqueIdentifier>{7dfb6bdf-3f78-476a-b811-f3694c732fdc}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="PracticeAbdulBari.cpp">
@@ -341,6 +344,12 @@
     </ClCompile>
     <ClCompile Include="ShellSort.cpp">
       <Filter>Source Files\15. Sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="ChainHashing.cpp">
+      <Filter>Source Files\16. Hashing</Filter>
+    </ClCompile>
+    <ClCompile Include="LinearProbing.cpp">
+      <Filter>Source Files\16. Hashing</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -158,6 +158,7 @@
     <ClCompile Include="BinBucketSort.cpp" />
     <ClCompile Include="BSTfromTraversals.cpp" />
     <ClCompile Include="bubblesort.cpp" />
+    <ClCompile Include="ChainHashing.cpp" />
     <ClCompile Include="CheckingAnagrams.cpp" />
     <ClCompile Include="checkLoopLinkedlist.cpp" />
     <ClCompile Include="CircularLinkedlist.cpp" />
@@ -184,6 +185,7 @@
     <ClCompile Include="InsertionSort.cpp" />
     <ClCompile Include="InsertNodeInSortedList.cpp" />
     <ClCompile Include="IterativeTraversalsTree.cpp" />
+    <ClCompile Include="LinearProbing.cpp" />
     <ClCompile Include="LinkedListUsingRecursionAndOperations.cpp" />
     <ClCompile Include="LLStackandOperations.cpp" />
     <ClCompile Include="LL_RotationAvlTree.cpp" />
